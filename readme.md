@@ -1,5 +1,5 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# GoBike Dataset Investigation
+## by Shuai Guo
 
 
 ## Dataset
